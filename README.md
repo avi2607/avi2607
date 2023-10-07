@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avi2607
+- 👋 Hi, I’m @avi_33
 - 👀 I’m interested in ...Ai
 - 🌱 I’m currently learning ...ML
 - 💞️ I’m looking to collaborate on ...KLU
