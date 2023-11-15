@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avi_33
 - 👀 I’m interested in ...Ai
-- 🌱 I’m currently learning ...ML
+- 🌱 I’m currently learning ...the most popular Language Python
 - 💞️ I’m looking to collaborate on ...KLU
 
 
